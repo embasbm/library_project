@@ -1,9 +1,12 @@
 class Book
+  attr_accessor :title, :author, :category
 
-  def initialize(aa,bb,cat)
-    @title=aa
-    @author=bb
-    @category=cat
+  def initialize title,author,category
+    @title=title
+    @author= author
+    @category=category
     
   end
+  
+
 end
