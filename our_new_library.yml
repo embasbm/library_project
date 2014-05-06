@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: ! 'Javascript: The Good Parts'
+  author: Douglas Crockford
+  category: :development
+- !ruby/object:Book
+  title: ! 'HTML: The Good Parts'
+  author: Douglas Crockford
+  category: :usability
+- !ruby/object:Book
+  title: ! 'Ruby: The Good Parts'
+  author: Douglas Crockford
+  category: :development
+- !ruby/object:Book
+  title: ! 'Css: The Good Parts'
+  author: Douglas Crockford
+  category: :design
+- !ruby/object:Book
+  title: ! 'PHP: The Good Parts'
+  author: Douglas Crockford
+  category: :development
